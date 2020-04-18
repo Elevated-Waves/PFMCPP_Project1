@@ -59,21 +59,21 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun: Camera 
-//  action 1: Camera captures 
-camera.capture();
-//  action 2: the camera zooms
-camera.zoom();
-//  action 3: the camera flashes
- camera.flash();
-//  2) 
 //  Noun: Dog
-//  action 1: the dog barks
+//  action 1: the dog barks 
 dog.bark();
 //  action 2: the dog runs
 dog.run();
 //  action 3: the dog sniffs
 dog.sniff();
+//  2) 
+//  Noun: Camera 
+//  action 1: Camera captures 
+camera.capture();
+//  action 2: the camera zooms 
+camera.zoom();
+//  action 3: the camera flashes 
+camera.flash();
 //  3)
 //  Noun: Sun
 //  action 1: the sun sets
