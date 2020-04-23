@@ -61,55 +61,55 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  1)
 //  Noun: Dog
 //  action 1: the dog barks 
-dog.bark();
+dog.barkAtNeighbor();
 //  action 2: the dog runs
-dog.run();
+dog.runAcrossYard();
 //  action 3: the dog sniffs
-dog.sniff();
+dog.sniffVisitor();
 //  2) 
 //  Noun: Camera 
 //  action 1: Camera captures 
-camera.capture();
+camera.captureLandscape();
 //  action 2: the camera zooms 
-camera.zoom();
+camera.zoomIn();
 //  action 3: the camera flashes 
 camera.flash();
 //  3)
 //  Noun: Sun
 //  action 1: the sun sets
-sun.set();
+sun.setInTheWest();
 //  action 2: the sun shines
-sun.shine();
+sun.shineEveryMorning();
 //  action 3: the sun rises
-sun.rise();
+sun.riseInTheEast();
 //  4)
 //  Noun: Doctor
 //  action 1: the doctor heals
-doctor.heal();
+doctor.healBrokenBone();
 //  action 2: the doctor diagnose
-doctor.diagnose();
+doctor.diagnosePatient();
 //  action 3: the doctor prescribes 
-doctor.prescribe();
+doctor.prescribeMedicine();
 //  5)
 //  Noun: Dolphin
 //  action 1: the dolphin squeaks 
-dolphin.squeak();
+dolphin.squeakDuringPerformance();
 //  action 2: the dolphin swims
-dolphin.swim();
+dolphin.swimInTheOcean();
 //  action 3: the dolphin jumps
-dolphin.jump();
+dolphin.jumpOutOfWater();
 //  6)
 //  Noun: Rocket
 //  action 1: the rocket launches 
-rocket.launch();
+rocket.launchOuterSpace();
 //  action 2: the rocket explodes
-rocket.explode();
+rocket.explodePostLaunch();
 //  action 3: the rocket lands
-rocket.land();
+rocket.landOnMoon();
 //  7)
 //  Noun: Ghost
 //  action 1: the ghost fades
-ghost.fade();
+ghost.fadeOutOfSight();
 //  action 2: the ghost haunts
 ghost.haunt();
 //  action 3: the ghost possesses 
@@ -117,27 +117,27 @@ ghost.possess();
 //  8) 
 //  Noun: Boat
 //  action 1: the boat floats
-boat.float();
+boat.floatAtSea();
 //  action 2: the boat sails
-boat.sail();
+boat.sailAcrossRiver();
 //  action 3: the boat sinks
-boat.sink();
+boat.sinkByIceberg();
 //  9)
 //  Noun: Lightning
 //  action 1: the lightning strikes
-lightning.strike();
+lightning.strikeTree();
 //  action 2: the lightning flashes
 lightning.flash();
 //  action 3: the lightning illuminates 
-lightning.illuminate();
+lightning.illuminateDarkSky();
 //  10)
 //  Noun: Baby
 //  action 1: the baby cries
 baby.cry();
 //  action 2: the baby laughs
-baby.laugh();
+baby.laughAtJoke();
 //  action 3: the baby crawls
-baby.crawl();
+baby.crawlToMother();
 
  
 
